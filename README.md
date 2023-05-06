@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Avilable Cities: Delhi, Jaipur, Bangalore
+# Avilable Dates: 15/02/2023, 06/05/2023, 07/05/2023, 08/05/2023
+# Sample Output:
+![Flight-App-1](https://user-images.githubusercontent.com/60334479/236648949-d320aa48-30df-4caf-a6f1-8fe7bd73c972.JPG)
+![Flight-App-2](https://user-images.githubusercontent.com/60334479/236648954-be9a965b-ba39-49db-bbd2-878ce9da204a.JPG)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
